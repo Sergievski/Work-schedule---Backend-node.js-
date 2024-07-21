@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1",
+    "name": "Moshe ",
+    "email": "Moshe@gmail.com",
+    "password": "123123",
+    "managerId": "22",
+    "possibleShifts": ["String"],
+    "shiftManager": false
+  },
+  {
+    "id": "2",
+    "name": "Avraham",
+    "email": "String",
+    "password": "String",
+    "managerId": "33",
+    "possibleShifts": ["String"],
+    "shiftManager": true
+  },
+  {
+    "id": "3",
+    "name": "Vitali",
+    "email": "String",
+    "password": "String",
+    "managerId": "22",
+    "possibleShifts": ["String"],
+    "shiftManager": true
+  },
+  {
+    "id": "4",
+    "name": "Stas",
+    "email": "String",
+    "password": "String",
+    "managerId": "33",
+    "possibleShifts": ["String"],
+    "shiftManager": false
+  },
+  {
+    "id": "5",
+    "name": "Andrey",
+    "email": "String",
+    "password": "String",
+    "managerId": "22",
+    "possibleShifts": ["String"],
+    "shiftManager": true
+  }
+]
